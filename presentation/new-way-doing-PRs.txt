@@ -1,0 +1,14 @@
+I hate commenting on pull requests. I just hate it.
+Telling someone they could have done it different after they just did the work
+and treating it as blocking part of the process is a combo I detest.
+
+more useful comments tool
+details: https://conventionalcomments.org/
+
+We've had good success with Martin Folwler's ship-show-ask approach in my current team.
+Instead of comments about how it could be improved, I just change it myself after the fact and send a new show PR.
+details: https://martinfowler.com/articles/ship-show-ask.html
+
+To push a PR after the work is done is an anti-pattern.
+The feedback must start during the work.
+
